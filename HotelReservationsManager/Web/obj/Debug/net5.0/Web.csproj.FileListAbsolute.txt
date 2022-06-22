@@ -1,0 +1,1131 @@
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csprojAssemblyReference.cache
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.AssemblyInfoInputs.cache
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.AssemblyInfo.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csproj.CoreCompileInputs.cache
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorAssemblyInfo.cache
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorAssemblyInfo.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\appsettings.Development.json
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\appsettings.json
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.StaticWebAssets.xml
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.exe
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.deps.json
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.runtimeconfig.json
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.runtimeconfig.dev.json
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ref\Web.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.pdb
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.Views.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.Views.pdb
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Humanizer.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Data.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Data.pdb
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\staticwebassets\Web.StaticWebAssets.Manifest.cache
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\staticwebassets\Web.StaticWebAssets.xml
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\scopedcss\bundle\Web.styles.css
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.TagHelpers.input.cache
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.TagHelpers.output.cache
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorCoreGenerate.cache
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorTargetAssemblyInfo.cache
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorTargetAssemblyInfo.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.Views.pdb
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csproj.CopyComplete
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\ref\Web.dll
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.pdb
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.genruntimeconfig.cache
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Create.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Delete.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Details.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Edit.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Index.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Create.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Delete.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Details.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Edit.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Index.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Create.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Delete.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Details.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Edit.cshtml.g.cs
+D:\Модул13\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Index.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.StaticWebAssets.xml
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.exe
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.deps.json
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.runtimeconfig.json
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.runtimeconfig.dev.json
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ref\Web.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.pdb
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.Views.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.Views.pdb
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Data.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Data.pdb
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csprojAssemblyReference.cache
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.AssemblyInfo.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorAssemblyInfo.cache
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorAssemblyInfo.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\staticwebassets\Web.StaticWebAssets.Manifest.cache
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\staticwebassets\Web.StaticWebAssets.xml
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\scopedcss\bundle\Web.styles.css
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.TagHelpers.input.cache
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.TagHelpers.output.cache
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorCoreGenerate.cache
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Create.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Delete.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Details.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Edit.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Index.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Create.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Delete.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Details.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Edit.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Index.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Create.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Delete.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Details.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Edit.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Index.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorTargetAssemblyInfo.cache
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorTargetAssemblyInfo.cs
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.Views.pdb
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csproj.CopyComplete
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\ref\Web.dll
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.pdb
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.genruntimeconfig.cache
+C:\Users\User\Downloads\HotelManager1\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.StaticWebAssets.xml
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.exe
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.deps.json
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.runtimeconfig.json
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.runtimeconfig.dev.json
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ref\Web.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.pdb
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.Views.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.Views.pdb
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Data.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Data.pdb
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csprojAssemblyReference.cache
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.AssemblyInfo.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorAssemblyInfo.cache
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorAssemblyInfo.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\staticwebassets\Web.StaticWebAssets.Manifest.cache
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\staticwebassets\Web.StaticWebAssets.xml
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\scopedcss\bundle\Web.styles.css
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.TagHelpers.input.cache
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.TagHelpers.output.cache
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorCoreGenerate.cache
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Create.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Delete.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Details.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Edit.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Index.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Create.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Delete.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Details.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Edit.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Index.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Create.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Delete.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Details.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Edit.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Index.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorTargetAssemblyInfo.cache
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorTargetAssemblyInfo.cs
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.Views.pdb
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csproj.CopyComplete
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\ref\Web.dll
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.pdb
+C:\Users\User\Downloads\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.genruntimeconfig.cache
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.StaticWebAssets.xml
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.exe
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.deps.json
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.runtimeconfig.json
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.runtimeconfig.dev.json
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ref\Web.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.pdb
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.Views.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.Views.pdb
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Data.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Data.pdb
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csprojAssemblyReference.cache
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.AssemblyInfo.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorAssemblyInfo.cache
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorAssemblyInfo.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\staticwebassets\Web.StaticWebAssets.Manifest.cache
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\staticwebassets\Web.StaticWebAssets.xml
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\scopedcss\bundle\Web.styles.css
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.TagHelpers.input.cache
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.TagHelpers.output.cache
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorCoreGenerate.cache
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Create.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Delete.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Details.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Edit.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Index.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Create.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Delete.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Details.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Edit.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Index.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Create.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Delete.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Details.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Edit.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Index.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorTargetAssemblyInfo.cache
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorTargetAssemblyInfo.cs
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.Views.pdb
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csproj.CopyComplete
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\ref\Web.dll
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.pdb
+C:\Users\User\Downloads\HotelManager (1)\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.genruntimeconfig.cache
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\appsettings.json
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.StaticWebAssets.xml
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.exe
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.deps.json
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.runtimeconfig.json
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.runtimeconfig.dev.json
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ref\Web.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.pdb
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.Views.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.Views.pdb
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Data.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Data.pdb
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csprojAssemblyReference.cache
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.AssemblyInfo.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\staticwebassets\Web.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\staticwebassets\Web.StaticWebAssets.xml
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\scopedcss\bundle\Web.styles.css
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.TagHelpers.input.cache
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.TagHelpers.output.cache
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorCoreGenerate.cache
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Create.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Delete.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Details.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Edit.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Index.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Create.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Delete.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Details.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Edit.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Index.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Create.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Delete.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Details.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Edit.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Index.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.Views.pdb
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csproj.CopyComplete
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\ref\Web.dll
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.pdb
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.genruntimeconfig.cache
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Lock.cshtml.g.cs
+C:\Users\User\Desktop\1\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\LockUsers.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\appsettings.Development.json
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\appsettings.json
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.StaticWebAssets.xml
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.exe
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.deps.json
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.runtimeconfig.json
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.runtimeconfig.dev.json
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ref\Web.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.pdb
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.Views.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Web.Views.pdb
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Humanizer.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Data.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\bin\Debug\net5.0\Data.pdb
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.AssemblyInfoInputs.cache
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.AssemblyInfo.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csproj.CoreCompileInputs.cache
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.MvcApplicationPartsAssemblyInfo.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorAssemblyInfo.cache
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorAssemblyInfo.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\staticwebassets\Web.StaticWebAssets.Manifest.cache
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\staticwebassets\Web.StaticWebAssets.xml
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\scopedcss\bundle\Web.styles.css
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.TagHelpers.input.cache
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.TagHelpers.output.cache
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorCoreGenerate.cache
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Create.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Delete.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Details.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Edit.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Clients\Index.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Create.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Delete.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Details.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Edit.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Reservations\Index.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Create.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Delete.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Details.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Edit.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Rooms\Index.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Create.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Delete.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Details.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Edit.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\Lock.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\Users\LockUsers.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorTargetAssemblyInfo.cache
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.RazorTargetAssemblyInfo.cs
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.Views.pdb
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csproj.CopyComplete
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\ref\Web.dll
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.pdb
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.genruntimeconfig.cache
+D:\Plami\Programming\HotelManager\HotelManager\123\HotelManager\HotelManager\HotelReservationsManager\Web\obj\Debug\net5.0\Web.csproj.AssemblyReference.cache
